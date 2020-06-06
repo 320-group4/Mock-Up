@@ -1,6 +1,6 @@
 certifi==2018.4.16
 chardet==3.0.4
-Django==1.11.20
+Django==1.11.29
 idna==2.6
 praw==5.4.0
 prawcore==0.14.0
